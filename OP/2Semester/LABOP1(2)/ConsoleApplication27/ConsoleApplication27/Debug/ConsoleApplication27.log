@@ -1,0 +1,7 @@
+﻿  ConsoleApplication27.cpp
+  Functions.cpp
+C:\Users\Oleksii Savenko\source\repos\ConsoleApplication27\ConsoleApplication27\Functions.cpp(93,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksii Savenko\source\repos\ConsoleApplication27\ConsoleApplication27\Functions.cpp(122,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Oleksii Savenko\source\repos\ConsoleApplication27\ConsoleApplication27\Functions.cpp(133,39): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  ConsoleApplication27.vcxproj -> C:\Users\Oleksii Savenko\source\repos\ConsoleApplication27\Debug\ConsoleApplication27.exe
